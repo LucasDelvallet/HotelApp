@@ -44,7 +44,7 @@ public class Hotel {
 		// TODO Auto-generated constructor stub
 		this.name = name;
 		this.address = address;
-		this.city = city
+		this.city = city;
 		this.stars = stars;
 	}
 	/**
