@@ -45,7 +45,7 @@ public class Hotel {
 		this.name = name;
 		this.address = address;
 		this.city = city;
-		this.stars = stars;
+		this.stars = stars
 	}
 	/**
 	 * @return Returns the address.
